@@ -16,7 +16,7 @@ The assignment folder comprises the following:
 - a "Python Scripts" folder with the Python script with which we have splitted the MongoDB dataset
 - a "Queries" folder with the queries we have performed (for usability reasons)
 
-## Group memebers 
+## Group members 
 
 - [__Samuele Scherini__](https://github.com/ScheriniSamuele)
 - [__Matteo Spreafico__](https://github.com/MattBlue00)
