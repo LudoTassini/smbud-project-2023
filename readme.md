@@ -21,3 +21,7 @@ The assignment folder comprises the following:
 - [__Samuele Scherini__](https://github.com/ScheriniSamuele)
 - [__Matteo Spreafico__](https://github.com/MattBlue00)
 - [__Ludovica Tassini__](https://github.com/LudoTassini)
+
+## Evaluation
+
+Our project was assigned 2.5/2.5 points.
