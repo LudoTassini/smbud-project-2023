@@ -1,7 +1,7 @@
 # Systems and Methods for Big and Unstructured Data project - A.Y. 2023/2024
 
 This project consisted of choosing two technologies between Neo4J, MongoDB and ElasticSearch and performing some analyses on two datasets of our choosing.
-The full project request can be found [__here__]([SMBUD Project - 2023_2024.pdf](https://github.com/LudoTassini/smbud-project-2023/blob/main/SMBUD%20Project%20-%202023_2024.pdf)).
+The full project request can be found [__here__](https://github.com/LudoTassini/smbud-project-2023/blob/main/SMBUD%20Project%20-%202023_2024.pdf).
 
 The assignment folder comprises the following:
 - the project report in PDF format
