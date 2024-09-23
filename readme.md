@@ -1,3 +1,8 @@
+# Systems and Methods for Big and Unstructured Data project - A.Y. 2023/2024
+
+This project consisted of choosing two technologies between Neo4J, MongoDB and ElasticSearch and performing some analyses on two datasets of our choosing.
+
+
 The assignment folder comprises the following:
 - the project report in PDF format
 - a "Colab Notebooks" folder with the two Python notebooks containing the code for the extra work (one notebook for MongoDB, one notebook for Neo4j)
